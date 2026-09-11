@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: teenyicons
+Source: https://github.com/teenyicons/teenyicons.git
+
+Files: *
+Copyright: Upstream authors
+License: MIT
+
+Files: debian/*
+Copyright: 2026 Lenik <icons-teenyicons@bodz.net>
+License: MIT
