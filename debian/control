@@ -1,12 +1,12 @@
 Source: icons-teenyicons
 Section: graphics
 Priority: optional
-Maintainer: Lenik <icons-teenyicons@bodz.net>
+Maintainer: Lenik (谢继雷) <lenik@bodz.net>
 Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
 Standards-Version: 4.6.2
 Homepage: https://teenyicons.com/
-Vcs-Browser: https://github.com/lenik/pkg-icons-teenyicons
-Vcs-Git: https://github.com/lenik/pkg-icons-teenyicons.git
+Vcs-Browser: https://github.com/lenik/icons-teenyicons
+Vcs-Git: https://github.com/lenik/icons-teenyicons.git
 Rules-Requires-Root: no
 
 Package: icons-teenyicons
@@ -17,4 +17,4 @@ Description: Teenyicons minimal 1px icons
  Teenyicons minimal 1px icons
  .
  Provides icon assets under /usr/share/icons-teenyicons, a preview index, and a
- launcher `icons-teenyicons` (`iconlibutils -l teenyicons`).
+ launcher `icons-teenyicons` (`iconlib -l teenyicons`).

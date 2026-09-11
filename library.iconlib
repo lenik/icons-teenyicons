@@ -1,4 +1,4 @@
-# Installed by icons-teenyicons — discovered as /usr/share/iconlibutils/library/teenyicons/
+# Installed by icons-teenyicons as /usr/share/iconlibutils/library/teenyicons
 name=teenyicons
 type=auto
 path=/usr/share/icons-teenyicons
@@ -7,3 +7,5 @@ license=MIT
 homepage=https://teenyicons.com/
 description=Teenyicons minimal 1px icons
 package=icons-teenyicons
+icons_root=orig/src
+faiss_index=/usr/share/icons-teenyicons

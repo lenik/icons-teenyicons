@@ -1,2 +1,2 @@
 #!/bin/sh
-exec iconlibutils -l teenyicons "$@"
+exec iconlib -l teenyicons "$@"
