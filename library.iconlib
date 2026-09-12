@@ -8,4 +8,4 @@ homepage=https://teenyicons.com/
 description=Teenyicons minimal 1px icons
 package=icons-teenyicons
 icons_root=orig/src
-faiss_index=/usr/share/icons-teenyicons
+faiss_index=faiss
